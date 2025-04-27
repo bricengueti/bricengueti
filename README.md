@@ -51,19 +51,7 @@ Développeur Full-Stack avec plus de 5 ans d'expérience dans la conception, le 
 - 🤝 Collaborer avec des équipes internationales et dynamiques  
 - 📈 Continuer à apprendre et partager mes connaissances avec la communauté
 
----
 
-## 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bricengueti&show_icons=true&theme=github_dark" alt="Statistiques GitHub de Brice"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/bricengueti/bricengueti/blob/output/github-contribution-grid-snake.svg" alt="Contributions Snake animation" />
-</p>
-
----
 
 ## ✨ Citation Inspirante
 
