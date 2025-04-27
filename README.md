@@ -1,15 +1,19 @@
 <h1 align="center">Salut 👋, je suis Tchongoue Ngueti Brice</h1>
-<h3 align="center">Développeur Full-Stack passionné par Java, Spring Boot, Angular, Flutter et la culture DevOps</h3>
+<h3 align="center">Développeur Full-Stack passionné par Java, Spring Boot, Angular, Flutter, et la culture DevOps</h3>
 
 ---
 
 ## 👨‍💻 À propos de moi
 
+Développeur Full-Stack avec plus de 5 ans d'expérience dans la conception, le développement et l'optimisation d'applications Web et Mobiles.  
+🎯 **Très enthousiaste, curieux et motivé**, je suis toujours prêt à relever de nouveaux défis et à collaborer sur des projets innovants.  
+🤝 **Ouvert à de nouvelles missions et opportunités** en développement Full-Stack, DevOps, ou en projets cloud-native.
+
 - 🎓 Diplômé en **Génie Logiciel** (Licence Professionnelle)  
 - 💼 Actuellement **Développeur Full-Stack** chez **Alshadows**  
 - 🌍 Basé à **Yaoundé, Cameroun**  
-- 📬 Vous pouvez me contacter par email : [tchongouebricengueti@gmail.com](mailto:tchongouebricengueti@gmail.com)  
-- 🔗 Mon profil LinkedIn : [linkedin.com/in/tchongoue-ngueti-brice](https://linkedin.com/in/tchongoue-ngueti-brice)
+- 📬 Contact : [tchongouebricengueti@gmail.com](mailto:tchongouebricengueti@gmail.com)  
+- 🔗 LinkedIn : [linkedin.com/in/tchongoue-ngueti-brice](https://linkedin.com/in/tchongoue-ngueti-brice)
 
 ---
 
@@ -26,7 +30,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
-### Outils et Bases de données
+### Outils, Bases de données et Déploiement
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -41,9 +45,10 @@
 
 ## 🎯 Objectifs
 
-- 🔥 Continuer à approfondir mes compétences en **microservices** et **DevOps**  
-- 🚀 Participer à des projets innovants Web et Mobile  
-- 🤝 Collaborer avec des équipes dynamiques sur des projets open-source ou commerciaux
+- 🔥 Approfondir mes compétences en **microservices**, **DevOps**, et **architecture cloud**  
+- 🚀 Intégrer des projets innovants à fort impact technique  
+- 🤝 Collaborer avec des équipes internationales et dynamiques  
+- 📈 Continuer à apprendre et partager mes connaissances avec la communauté
 
 ---
 
