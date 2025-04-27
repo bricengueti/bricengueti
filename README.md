@@ -1,5 +1,6 @@
-<h1 align="center">Salut 👋, je suis Tchongoue Ngueti Brice</h1>
-<h3 align="center">Développeur Full-Stack passionné par Java, Spring Boot, Angular, Flutter, et la culture DevOps</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Salut+%F0%9F%91%8B%2C+je+suis+Tchongoue+Ngueti+Brice;Développeur+Full-Stack+passionné+!+%F0%9F%92%BB" alt="Typing SVG">
+</h1>
 
 ---
 
@@ -56,6 +57,10 @@ Développeur Full-Stack avec plus de 5 ans d'expérience dans la conception, le 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bricengueti&show_icons=true&theme=github_dark" alt="Statistiques GitHub de Brice"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/bricengueti/bricengueti/blob/output/github-contribution-grid-snake.svg" alt="Contributions Snake animation" />
 </p>
 
 ---
