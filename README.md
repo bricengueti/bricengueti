@@ -1,26 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Salut+%F0%9F%91%8B%2C+je+suis+Tchongoue+Ngueti+Brice;Développeur+Full-Stack+passionné+!+%F0%9F%92%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Tchongoue+Ngueti+Brice;Passionate+Full-Stack+Developer+!+%F0%9F%92%BB" alt="Typing SVG">
 </h1>
 
 ---
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
-Développeur Full-Stack avec plus de 5 ans d'expérience dans la conception, le développement et l'optimisation d'applications Web et Mobiles.  
-🎯 **Très enthousiaste, curieux et motivé**, je suis toujours prêt à relever de nouveaux défis et à collaborer sur des projets innovants.  
-🤝 **Ouvert à de nouvelles missions et opportunités** en développement Full-Stack, DevOps, ou en projets cloud-native.
+Full-Stack Developer with over 5 years of experience in designing, developing, and optimizing high-performance web and mobile applications.  
+🎯 **Highly enthusiastic, curious, and motivated**, I am always ready to embrace new challenges and collaborate on innovative projects.  
+🤝 **Open to new missions and exciting opportunities** in Full-Stack Development, DevOps, and Cloud-Native projects.
 
-- 🎓 Diplômé en **Génie Logiciel** (Licence Professionnelle)  
-- 💼 Actuellement **Développeur Full-Stack** chez **Alshadows**  
-- 🌍 Basé à **Yaoundé, Cameroun**  
-- 📬 Contact : [tchongouebricengueti@gmail.com](mailto:tchongouebricengueti@gmail.com)  
-- 🔗 LinkedIn : [linkedin.com/in/tchongoue-ngueti-brice](https://linkedin.com/in/tchongoue-ngueti-brice)
+- 🎓 Graduated in **Software Engineering** (Professional Bachelor’s Degree)  
+- 💼 Currently working as a **Full-Stack Developer** at **Alshadows**  
+- 🌍 Based in **Yaoundé, Cameroon**  
+- 📬 Contact: [tchongouebricengueti@gmail.com](mailto:tchongouebricengueti@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/tchongoue-ngueti-brice](https://linkedin.com/in/tchongoue-ngueti-brice)
 
 ---
 
-## 🚀 Compétences Techniques
+## 🚀 Technical Skills
 
-### Langages et Frameworks
+### Languages & Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -31,7 +31,7 @@ Développeur Full-Stack avec plus de 5 ans d'expérience dans la conception, le 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
-### Outils, Bases de données et Déploiement
+### Tools, Databases & Deployment
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -44,21 +44,33 @@ Développeur Full-Stack avec plus de 5 ans d'expérience dans la conception, le 
 
 ---
 
-## 🎯 Objectifs
+## 🎯 Objectives
 
-- 🔥 Approfondir mes compétences en **microservices**, **DevOps**, et **architecture cloud**  
-- 🚀 Intégrer des projets innovants à fort impact technique  
-- 🤝 Collaborer avec des équipes internationales et dynamiques  
-- 📈 Continuer à apprendre et partager mes connaissances avec la communauté
+- 🔥 Deepen my expertise in **Microservices**, **DevOps**, and **Cloud Architectures**  
+- 🚀 Work on innovative, high-impact technical projects  
+- 🤝 Collaborate with international and dynamic teams  
+- 📈 Continuously learn and contribute back to the tech community
 
+---
 
+## 📈 GitHub Stats
 
-## ✨ Citation Inspirante
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bricengueti&show_icons=true&theme=github_dark" alt="Brice's GitHub Stats"/>
+</p>
 
-> "Le succès n’est pas la clé du bonheur. Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez." – Albert Schweitzer
+<p align="center">
+  <img src="https://github.com/bricengueti/bricengueti/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>
+
+---
+
+## ✨ Inspirational Quote
+
+> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." – Albert Schweitzer
 
 ---
 
 <!--
-bricengueti/bricengueti est un ✨ dépôt spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
+bricengueti/bricengueti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
