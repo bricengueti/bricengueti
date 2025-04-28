@@ -51,14 +51,6 @@ Full-Stack Developer with over 5 years of experience in designing, developing, a
 - 🤝 Collaborate with international and dynamic teams  
 - 📈 Continuously learn and contribute back to the tech community
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bricengueti&show_icons=true&theme=github_dark" alt="Brice's GitHub Stats"/>
-</p>
-
 <p align="center">
   <img src="https://github.com/bricengueti/bricengueti/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
